@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$database = "ContactDB";
-$username = "ContactDB_admin";
-$password = "Superman0777";
+$database = "DatabaseName";
+$username = "YourUseName";
+$password = "Yourpassword";
 
 // Create connection to mySQL server
 
